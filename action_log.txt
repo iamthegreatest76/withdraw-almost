@@ -1,0 +1,2 @@
+2025-08-06 19:26:24.629341 | Attempt 1 | {'action': 'approve', 'ref': '4dca66d2-15b4-46fa-b8c2-07757ab3ca4c', 'hash': 'b65be6ef03a2c646d79cfc451cf8816936f7af94e81396f622713ca343a862db', 'utr': '837562947608'}
+2025-08-06 19:26:25.348523 | Attempt 1 | {'action': 'reject', 'ref': '1b899252-3a6e-47f6-8839-b321f56fe480', 'hash': '9fb25875360672398f818fe19c6d39273271886a50744bfcbdf02c8ec6b2d55d', 'reason': 'Invalid details'}
