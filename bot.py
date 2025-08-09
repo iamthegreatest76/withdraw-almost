@@ -4,7 +4,7 @@ from aiogram.client.default import DefaultBotProperties
 from handlers import register_handlers
 from aiogram.fsm.storage.memory import MemoryStorage
 
-BOT_TOKEN = "8280104776:AAFcJUHRUB2d2ouMp-0OE6Zru-AYYvV4FKU"
+BOT_TOKEN = "8317286944:AAEH6j2S0e96N3JcAUHGg2Ume5LC7X7miag"
 
 bot = Bot(
     token=BOT_TOKEN,
@@ -20,3 +20,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
