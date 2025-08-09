@@ -1,0 +1,5 @@
+aiogram
+requests
+selenium
+flask
+openpyxl
