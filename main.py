@@ -21,9 +21,9 @@ LOG_FILE = "withdrawal_logs.txt"
 SEEN_IDS_FILE = "seen_ids.txt"
 SEEN_HASHES_FILE = "seen_hashes.txt"
 ACTION_LOG_FILE = "action_log.txt"
-BOT_TOKEN = "8280104776:AAFcJUHRUB2d2ouMp-0OE6Zru-AYYvV4FKU"
+BOT_TOKEN = "8317286944:AAEH6j2S0e96N3JcAUHGg2Ume5LC7X7miag"
 CHAT_ID = -1002559335031
-ADMIN_ID = 8468186217
+ADMIN_ID = 8220037153
 
 # === Setup ===
 options = webdriver.ChromeOptions()
